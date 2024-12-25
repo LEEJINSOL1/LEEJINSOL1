@@ -1,5 +1,7 @@
-<h1 align="center">👋, I'm JINSOL LEE,</h1>
+<h1 align="center">Hi 👋, I'm JINSOL LEE,</h1>
 <h3 align="center">I am a Korean developer.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leejinsol1&label=Profile%20views&color=0e75b6&style=flat" alt="leejinsol1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
